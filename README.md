@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/i/7l72vz"  />
+<br clear="both">
+
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE3bzcxZGtjN252ZjBsbzh1d25nczk2Nmt1a3ZqYmJ0bjk0eG9qZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cXblnKXr2BQOaYnTni/giphy.gif"  />
 
 ###
 
@@ -47,5 +49,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/bursao/bursao/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
 ###
